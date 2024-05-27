@@ -3,7 +3,7 @@ require("firebase/auth")
 
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyCjLnX01NVTDAI5wNK08u35XAlxejuHfII",
+  apiKey: "",
     authDomain: "facegenie-c6cb6.firebaseapp.com",
     databaseURL: "https://facegenie-c6cb6.firebaseio.com",
     projectId: "facegenie-c6cb6",
